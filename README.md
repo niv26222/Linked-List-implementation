@@ -1,4 +1,4 @@
-# Linked-List-implementation-
+# Linked List implementation
 Java code for Linked List implementation 
 
 
